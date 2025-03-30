@@ -2,7 +2,7 @@
   "name": "jsbase-nestjs-typeorm-seeding",
   "main": "dist/index.js",
   "types": "src/index.ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A stunningly simple and powerful seeding library for NestJS and TypeORM.",
   "keywords": [
     "nestjs",
