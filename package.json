@@ -3,9 +3,17 @@
   "main": "dist/index.js",
   "types": "src/index.ts",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
+  "description": "A stunningly simple and powerful seeding library for NestJS and TypeORM.",
+  "keywords": [
+    "nestjs",
+    "typeorm",
+    "seeding",
+    "database",
+    "orm",
+    "typescript"
+  ],
+  "author": "jsbase.net",
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
